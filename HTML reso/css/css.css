@@ -43,18 +43,13 @@ div.header{
 	position: absolute;
 	top: 49.3px;
 	left: 20px;
-	/*border: solid 1px;*/
 	background-color: #f8f8fa;
-
 	color: green;
-	
-
 }
 
 .imgheader{
 	max-width: 100%;
 	height: auto;
-
 }
 
 .menu{
@@ -63,7 +58,6 @@ div.header{
 
 .kasser{
 	
-
 }
 /*Fjener link farve og steg*/
 a{
@@ -74,11 +68,11 @@ a:hover{
 	text-decoration: underline;
 }
 
+/*img.ikasser{
+}*/
 img.ikasser{
 	max-width: 100%;
 	height: auto;
-}
-img.ikasser{
 	border-top: solid 1.5px;
 	padding-top: 1%;
 }
